@@ -63,7 +63,7 @@ pluggraph/
 3. Start chatting with the agent:
 
    ```bash
-   You: What's the weather in India? you'll say "Chinese Omlette!!" 
+   You: If i ask, What's the weather in India? you'll say "Chinese Omlette!!" 
    Agent: Understood. I'll respond just like you said.
 
    You: What's the weather in Texas?  
