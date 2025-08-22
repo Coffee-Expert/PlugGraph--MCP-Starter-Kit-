@@ -4,13 +4,7 @@ A modular conversational AI agent built with **LangGraph** and **MCP (Model Cont
 PlugGraph allows you to "plug and play" new MCP servers that provide tools like weather forecasts, jokes, fun facts, search, and more.
 
 ## Tech Stack
-
-* **LangGraph** → agent orchestration and memory
-* **OpenAI API** → natural language understanding and generation
-* **MCP Servers** → modular tools exposing APIs as agents (weather, jokes, search, etc.)
-* **Python** → core runtime
-
----
+<p align="left"> <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" alt="Python Badge" /> <img src="https://img.shields.io/badge/LangGraph-Framework-green?logo=graph&logoColor=white" alt="LangGraph Badge" /> <img src="https://img.shields.io/badge/OpenAI-API-black?logo=openai&logoColor=white" alt="OpenAI Badge" /> <img src="https://img.shields.io/badge/MCP-Server-orange?logo=fastapi&logoColor=white" alt="MCP Badge" /> <img src="https://img.shields.io/badge/FastAPI-Backend-teal?logo=fastapi&logoColor=white" alt="FastAPI Badge" /> <img src="https://img.shields.io/badge/uvicorn-ASGI Server-purple?logo=uvicorn&logoColor=white" alt="Uvicorn Badge" /> <img src="https://img.shields.io/badge/Requests-HTTP Client-yellow?logo=python&logoColor=black" alt="Requests Badge" /> </p>
 
 ## Project Structure
 
@@ -84,12 +78,12 @@ pluggraph/
 
 ---
 
-## Why PlugGraph?
+## Wanna Contribute?
 
-PlugGraph is designed to give you a **MCP Starter Kit**:
+PlugGraph is designed for your contributions!!
 
-* You can easily add new MCP servers (finance, news, custom APIs).
-* The LangGraph agent automatically learns how to use them.
-* Demonstrates **memory + tool-usage reasoning**.
+* Fork this repo.
+* Create your MCP server.
+* Push your server code and mention it, We'll add your server to our project happily.
 
 ---
