@@ -1,4 +1,4 @@
-# PlugGraph (MCP Starter Kit)
+# PlugGraph (MCP Starter Kit) 
 
 A modular conversational AI agent built with **LangGraph** and **MCP (Model Context Protocol)**.
 PlugGraph allows you to "plug and play" new MCP servers that provide tools like weather forecasts, jokes, fun facts, search, and more.
