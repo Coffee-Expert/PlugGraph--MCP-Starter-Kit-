@@ -8,7 +8,7 @@ PlugGraph allows you to "plug and play" new MCP servers that provide tools like 
 
 ## Project Structure
 
-```
+``` 
 pluggraph/
 ├── agent.py          # Central LangGraph conversational agent
 ├── weather_server.py # MCP server: Weather forecasts & alerts
