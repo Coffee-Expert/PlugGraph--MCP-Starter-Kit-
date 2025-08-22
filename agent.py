@@ -25,7 +25,7 @@ if not OPENAI_API_KEY:  # check if missing
     raise ValueError("Set OPENAI_API_KEY in .env")  # tell developer how to fix
 
 # Instantiate the LLM; gpt-4o is strong and multimodal-aware, good for tool orchestration
-llm = ChatOpenAI(model="gpt-4o")  # create the chat model instance
+llm = ChatOpenAI(model="gpt-4o")  # create the chat model instance 
 
 # Define a single thread_id to keep conversation memory across turns during this run
 THREAD_ID = "demo-thread-001"  # any stable string works as a memory key
